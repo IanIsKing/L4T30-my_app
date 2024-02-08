@@ -13,4 +13,5 @@ Enjoy.
 
 Testing
 
-2 seperate tests will test the rendering of the front end and do a API call from the front end to the back end to GitHib API and ensure 30 results are returned.
+3 seperate tests will test the rendering of the front end, one will do a API call from the front end to the back end to GitHib API and ensure 30 results are returned.
+Ive also included 3 tests on the backend.
