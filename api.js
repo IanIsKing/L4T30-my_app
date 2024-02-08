@@ -131,3 +131,5 @@ app.get("/api/commits/:name/:repo", async (req, res) => {
 app.listen(port, () => {
   console.log(`API listening at http://localhost:${port}`);
 });
+
+export default app;
